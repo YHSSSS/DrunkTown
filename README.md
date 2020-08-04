@@ -15,6 +15,12 @@ Try your best to decrease the consume of your money and your health so that you 
 您可以通过地图走回家（希望途中不会出现什么奇奇怪怪流里流气的人哦）。
 您也可以通过与NPC对话完成相关操作来找到回家的路。
 
+本项目的设计稿链接请见：
+https://dmail-my.sharepoint.com/:u:/r/personal/jphuang_dundee_ac_uk/Documents/Games%20Programming/JIAXIN%20HUANG--%20drunk%20town.drawio?csf=1&web=1&e=SwOhIY
+
+本项目的反思和改进请见：
+https://1drv.ms/w/s!Ahiyvo159zvVpAxpyCD1SteB8LlX
+
 非常感谢您体验这款游戏，因为作者在优化上技术有所欠缺，整个游戏体验会有点差，请见谅！
 
 Jiaxin

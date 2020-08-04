@@ -18,6 +18,9 @@ Try your best to decrease the consume of your money and your health so that you 
 本项目的反思和改进请见：
 https://shimo.im/docs/Qjk8wYtQH6RkGxGV/ 《关于DrunkTown项目的反思和改进》，可复制链接后用石墨文档 App 或小程序打开
 
+本项目的设计请见：
+https://shimo.im/docs/XGWhwKxDxYdXWth3/ 《DrunkTown项目设计》，可复制链接后用石墨文档 App 或小程序打开
+
 非常感谢您体验这款游戏，因为作者在优化上技术有所欠缺，整个游戏体验会有点差，请见谅！
 
 Jiaxin
